@@ -1,0 +1,8 @@
+0 Call
+1 Dislike
+2 Fine
+3 Good Job
+4 Good Luck
+5 Power
+6 Stop
+7 Victory
